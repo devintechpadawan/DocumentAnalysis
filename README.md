@@ -26,6 +26,6 @@ Vocabulary
 <h2>Instructions:</h2>
 
 
-- <b>Paste in your Virus Total API key.</b> 
+- <b>Script will ask for folderpath, then filepath.</b> 
 
 
