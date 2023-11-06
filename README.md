@@ -4,14 +4,7 @@
 
 <h2>Description</h2>
 Project consists of a Python script allows you to scan a document to analyse speech.  
-It will print: 
-Length of Corpus
-Number of Tokens Found
-Vocabulary Size
-Word Occurrence
-Generate a Concordance
-Word Index
-Vocabulary
+It will print Length of Corpus, Number of Tokens Found, Vocabulary Size, Word Occurrence, Generate a Concordance, Word Index, and Vocabulary
 
 <h2>Language Used</h2>
 
