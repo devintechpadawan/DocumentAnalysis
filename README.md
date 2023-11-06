@@ -11,7 +11,7 @@ Word Index
 Vocabulary
 
 
-Sample output:
+Sample output(best viewed in Raw):
 
 [nltk_data] Downloading package gutenberg to
 [nltk_data]     C:\Users\Administrator\AppData\Roaming\nltk_data...
